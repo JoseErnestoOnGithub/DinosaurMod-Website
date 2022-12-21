@@ -20,7 +20,7 @@ button {
     background: none;
     border: none;
 }
-a {
+a.navs {
     padding-left: 1%;
     padding-right: 1%;
     border: none;
