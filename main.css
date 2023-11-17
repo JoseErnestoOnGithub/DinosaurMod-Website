@@ -1,5 +1,5 @@
 .nav {
-    background-color: #00CC29;
+    background-color: #80f41a;
     padding-left: 4%;
     padding-right: 4%;
 }
@@ -36,5 +36,5 @@ a, p {
     line-height: 1.5em;
 }
 button:hover {
-    background-color: 3D8F4E
+    background-color: #80f41a;
 }
